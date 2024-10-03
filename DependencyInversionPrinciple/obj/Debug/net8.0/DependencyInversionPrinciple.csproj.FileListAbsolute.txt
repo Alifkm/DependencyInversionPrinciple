@@ -1,0 +1,14 @@
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.exe
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.deps.json
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.runtimeconfig.json
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.dll
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.pdb
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfo.cs
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.dll
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net8.0\refint\DependencyInversionPrinciple.dll
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.pdb
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.genruntimeconfig.cache
+D:\Alip\udemy course\Session_20\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net8.0\ref\DependencyInversionPrinciple.dll
